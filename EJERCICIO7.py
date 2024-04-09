@@ -6,7 +6,7 @@ response=requests.get(url)
 data = response.json()
 
 
-with open('sunat_dolar_202403.db', mode='w') as file:
+with open('sunat_info.db', mode='w') as file:
 
     for registro in data:
 
