@@ -15,4 +15,3 @@ with open('sunat_dolar_202403.db', mode='w') as file:
         venta = registro['venta']
 
         file.writelines([f'====== {fecha} =======\n', f'Compra USD: {compra}\n', f'Venta USD: {venta}\n'])
-
