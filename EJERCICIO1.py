@@ -21,8 +21,8 @@ def main():
 
     bitcoin = precio_real()
     if bitcoin is not None:
-        costo_en_usd = n*bitcoin
-        print(f"El costo actual de {n:.4f} Bitcoins es: ${costo_en_usd:,.4f}")
+        costo_real = n*bitcoin
+        print(f"El costo actual de {n:.4f} Bitcoins es: ${costo_real:,.4f}")
 
 if __name__ == "__main__":
     main()
