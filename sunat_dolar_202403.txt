@@ -1,96 +1,32 @@
-====== 2024-03-01 =======
-Compra USD: 3.778
-Venta USD: 3.782
-====== 2024-03-02 =======
-Compra USD: 3.768
-Venta USD: 3.773
-====== 2024-03-03 =======
-Compra USD: 3.768
-Venta USD: 3.773
-====== 2024-03-04 =======
-Compra USD: 3.768
-Venta USD: 3.773
-====== 2024-03-05 =======
-Compra USD: 3.762
-Venta USD: 3.771
-====== 2024-03-06 =======
-Compra USD: 3.764
-Venta USD: 3.77
-====== 2024-03-07 =======
-Compra USD: 3.73
-Venta USD: 3.736
-====== 2024-03-08 =======
-Compra USD: 3.73
-Venta USD: 3.736
-====== 2024-03-08 =======
-Compra USD: 3.721
-Venta USD: 3.726
-====== 2024-03-09 =======
-Compra USD: 3.688
-Venta USD: 3.696
-====== 2024-03-10 =======
-Compra USD: 3.688
-Venta USD: 3.696
-====== 2024-03-11 =======
-Compra USD: 3.688
-Venta USD: 3.696
-====== 2024-03-12 =======
-Compra USD: 3.683
-Venta USD: 3.692
-====== 2024-03-13 =======
-Compra USD: 3.687
-Venta USD: 3.695
-====== 2024-03-14 =======
-Compra USD: 3.665
-Venta USD: 3.671
-====== 2024-03-15 =======
-Compra USD: 3.67
-Venta USD: 3.677
-====== 2024-03-16 =======
-Compra USD: 3.684
-Venta USD: 3.692
-====== 2024-03-17 =======
-Compra USD: 3.684
-Venta USD: 3.692
-====== 2024-03-18 =======
-Compra USD: 3.684
-Venta USD: 3.692
-====== 2024-03-19 =======
-Compra USD: 3.689
-Venta USD: 3.698
-====== 2024-03-20 =======
-Compra USD: 3.698
-Venta USD: 3.703
-====== 2024-03-21 =======
-Compra USD: 3.69
-Venta USD: 3.696
-====== 2024-03-22 =======
-Compra USD: 3.695
-Venta USD: 3.701
-====== 2024-03-23 =======
-Compra USD: 3.69
-Venta USD: 3.694
-====== 2024-03-24 =======
-Compra USD: 3.69
-Venta USD: 3.694
-====== 2024-03-25 =======
-Compra USD: 3.69
-Venta USD: 3.694
-====== 2024-03-26 =======
-Compra USD: 3.698
-Venta USD: 3.707
-====== 2024-03-27 =======
-Compra USD: 3.721
-Venta USD: 3.727
-====== 2024-03-28 =======
-Compra USD: 3.714
-Venta USD: 3.721
-====== 2024-03-29 =======
-Compra USD: 3.714
-Venta USD: 3.721
-====== 2024-03-30 =======
-Compra USD: 3.714
-Venta USD: 3.721
-====== 2024-03-31 =======
-Compra USD: 3.714
-Venta USD: 3.721
+2024-03-01: Compra USD: 3.778, Venta USD: 3.782
+2024-03-02: Compra USD: 3.768, Venta USD: 3.773
+2024-03-03: Compra USD: 3.768, Venta USD: 3.773
+2024-03-04: Compra USD: 3.768, Venta USD: 3.773
+2024-03-05: Compra USD: 3.762, Venta USD: 3.771
+2024-03-06: Compra USD: 3.764, Venta USD: 3.77
+2024-03-07: Compra USD: 3.73, Venta USD: 3.736
+2024-03-08: Compra USD: 3.73, Venta USD: 3.736
+2024-03-08: Compra USD: 3.721, Venta USD: 3.726
+2024-03-09: Compra USD: 3.688, Venta USD: 3.696
+2024-03-10: Compra USD: 3.688, Venta USD: 3.696
+2024-03-11: Compra USD: 3.688, Venta USD: 3.696
+2024-03-12: Compra USD: 3.683, Venta USD: 3.692
+2024-03-13: Compra USD: 3.687, Venta USD: 3.695
+2024-03-14: Compra USD: 3.665, Venta USD: 3.671
+2024-03-15: Compra USD: 3.67, Venta USD: 3.677
+2024-03-16: Compra USD: 3.684, Venta USD: 3.692
+2024-03-17: Compra USD: 3.684, Venta USD: 3.692
+2024-03-18: Compra USD: 3.684, Venta USD: 3.692
+2024-03-19: Compra USD: 3.689, Venta USD: 3.698
+2024-03-20: Compra USD: 3.698, Venta USD: 3.703
+2024-03-21: Compra USD: 3.69, Venta USD: 3.696
+2024-03-22: Compra USD: 3.695, Venta USD: 3.701
+2024-03-23: Compra USD: 3.69, Venta USD: 3.694
+2024-03-24: Compra USD: 3.69, Venta USD: 3.694
+2024-03-25: Compra USD: 3.69, Venta USD: 3.694
+2024-03-26: Compra USD: 3.698, Venta USD: 3.707
+2024-03-27: Compra USD: 3.721, Venta USD: 3.727
+2024-03-28: Compra USD: 3.714, Venta USD: 3.721
+2024-03-29: Compra USD: 3.714, Venta USD: 3.721
+2024-03-30: Compra USD: 3.714, Venta USD: 3.721
+2024-03-31: Compra USD: 3.714, Venta USD: 3.721
